@@ -1,0 +1,9 @@
+name: RandomItems
+version: 3
+main: dev.kalonic.randomitems.Main
+api-version: 1.16
+authors: [ Kalonic ]
+description: Gives you a random item every 30 seconds.
+commands:
+  randomitems:
+    aliases: [ri]
